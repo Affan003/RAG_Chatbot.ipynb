@@ -19,7 +19,9 @@ Installation: Install the required packages using pip:
 
 # #Terminal
 pip install openai==0.28 cohere tiktoken -U 
+
 pip install -qU openai pinecone-client datasets
+
 API Key: Obtain your OpenAI API key from the OpenAI website and replace enter_openai_api_key in the script with your API key.
 Run Script: Execute the provided Python script to set up the chatbot and create a knowledge base.
 
